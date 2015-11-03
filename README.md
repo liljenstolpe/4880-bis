@@ -153,10 +153,12 @@ and/or the co-chairs at openpgp-chairs@ietf.org.
 
 The repo will consist of at least two branches.
 
-* *rel* will be the most recent  document release and will be tagged as
+* *rel* (release) will be the most recent  document release and will
+  be tagged as 
   per IETF process (00, 01, etc.).
 
-* *can* will be the current working version.  Edits should be done in
+* *can* (candidate) will be the current working version.  Edits should
+  *be done in 
   *can* and **NOT** in release.  The editor(s) will, in consultation
   *with the contributors decide when to merge the *can* into
   **rel* and *issue* a new ID.
